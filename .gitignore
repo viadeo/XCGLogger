@@ -212,6 +212,9 @@ xcuserdata/
 #
 #tm_build_errors
 
+## Carthage
+Carthage/Build
+
 ####
 # UNKNOWN: recommended by others, but I can't discover what these files are
 #
